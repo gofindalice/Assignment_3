@@ -97,7 +97,7 @@
 }
 
 .center{
-	justify-content: center;
+	text-align: center;
 }
 
 .right{
@@ -133,8 +133,19 @@
 	font-family: Anton;
 }
 
+.med-anton{
+	font-size: 32px;
+	font-style: bold;
+	font-family: Anton;
+}
+
 .normal-anton{
 	font-size: 20px;
+	font-family: Anton;
+}
+
+.small-anton{
+	font-size: 15px;
 	font-family: Anton;
 }
 
@@ -160,4 +171,9 @@
 	font-size: 35px;
 }
 
-.normal-Montserrat{
+
+.large-Montserrat{
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 45px;
+}
