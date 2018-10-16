@@ -78,6 +78,44 @@
 	padding-right: 10%;
 }
 
+.flex-start{
+	display: flex;
+	width: 100%;
+	margin: 20px 20px 0px 20px;
+	justify-content: flex-start;
+}
+
+.flex-start{
+	display: flex;
+	width: 100%;
+	margin: 20px 20px 0px 20px;
+	justify-content: flex-end;
+}
+
+.space-between{
+	justify-content: space-between;
+}
+
+.center{
+	justify-content: center;
+}
+
+.right{
+	text-align: right;
+}
+
+.rotate-right{
+	transform: rotate(5deg);
+}
+
+.rotate-left{
+	transform: rotate(-5deg);
+}
+
+.marginn{
+	margin: 2%;
+}
+
 .large{
 	font-size: 60px;
 	font-style: bold;
@@ -99,3 +137,27 @@
 	font-size: 20px;
 	font-family: Anton;
 }
+
+.large-cody{
+	font-size: 65px;
+	font-style: bold;
+	font-family: Codystar;
+}
+
+.normal-cody{
+	font-size: 20px;
+	font-family: Codystar;
+}
+
+.normal-Montserrat{
+	font-family: Montserrat;
+	font-weight: 400;
+}
+
+.bigger-Montserrat{
+	font-family: Montserrat;
+	font-weight: 600;
+	font-size: 35px;
+}
+
+.normal-Montserrat{
