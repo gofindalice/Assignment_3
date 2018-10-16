@@ -160,9 +160,41 @@
 	font-family: Codystar;
 }
 
-.normal-Montserrat{
-	font-family: Montserrat;
+
+.normal-Charmonman{
+	font-family: Charmonman;
+	font-size: 25px;
+}
+
+.normal-Raleway{
+	font-family: Raleway;
+	font-size: 15px;
+}
+
+.bold-Charmonman{
+	font-family: Charmonman;
+	font-size: 40;
+	font-style: bold;
+}
+
+.bold-Raleway{
+	font-family: Raleway;
+	font-size: 40;
+	font-style: bold;
+}
+
+
+
+.normal-lobster{
+	font-family: lobster;
 	font-weight: 400;
+	font-size: 35px;
+}
+
+.big-lobster{
+	font-family: lobster;
+	font-weight: 400;
+	font-size: 60px;
 }
 
 .bigger-Montserrat{
@@ -176,4 +208,19 @@
 	font-family: Montserrat;
 	font-weight: 700;
 	font-size: 45px;
+}
+
+.box{
+	border-width: 4px;
+	border-style: solid;
+}
+
+.box-red{
+	border-width: 4px;
+	border-style: solid;
+	border-color: red;
+}
+
+.padding{
+	padding: 25px 50px 25px 50px
 }
