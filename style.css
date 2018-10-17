@@ -145,6 +145,11 @@
 	font-family: Anton;
 }
 
+.monoton{
+	font-size: 100px;
+	font-family: Monoton;
+}
+
 .small-anton{
 	font-size: 15px;
 	font-family: Anton;
@@ -377,3 +382,8 @@
 .lightblue{
 	color: #b0e0e6;
 }
+
+.extralarge{
+	font-size: 100px;
+}
+
