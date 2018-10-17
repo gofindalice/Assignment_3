@@ -43,7 +43,7 @@
 /* Ostrich Sans Rounded */
 
 @font-face {
-	font-family: 'Ostrich Sans Rounded';
+	font-family: "Ostrich Sans Rounded";
 	src: local('☺'), url('fonts/ostrich-sans-rounded.woff') format('woff'), url('ostrich-sans-rounded.ttf') format('truetype'), url('ostrich-sans-rounded.svg') format('svg');
 	font-weight: 500;
 	font-style: normal;
@@ -52,7 +52,7 @@
 /* Ostrich Sans Inline */
 
 @font-face {
-	font-family: 'Ostrich Sans Inline';
+	font-family: "Ostrich Sans Inline";
 	src: url('fonts/ostrich-sans-inline-regular.woff') format('woff');
 }
 
