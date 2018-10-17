@@ -53,9 +53,7 @@
 
 @font-face {
 	font-family: 'Ostrich Sans Inline';
-	src: local('☺'), url('fonts/ostrich-sans-inline-regular.woff') format('woff'), url('ostrich-sans-inline-regular.ttf') format('truetype'), url('ostrich-sans-inline-regular.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
+	src: url('fonts/ostrich-sans-inline-regular.woff') format('woff');
 }
 
 .container{
