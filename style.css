@@ -76,6 +76,7 @@
 	padding-left: 10%;
 	padding-top: 5%;
 	padding-right: 10%;
+	padding-bottom: 5%;
 }
 
 .flex-start{
@@ -223,4 +224,156 @@
 
 .padding{
 	padding: 25px 50px 25px 50px
+}
+
+.button-green {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+
+.button-black {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button-purple{
+    background-color: purple;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button-pink{
+    background-color: pink;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button-blue{
+	background-color: #1E90FF;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button-papayawhip{
+	background-color: papayawhip;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button-red {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+.button-darkred {
+    background-color: #8b0000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button-lightblue {
+    background-color: #b0e0e6;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.gradient{
+  background: -webkit-linear-gradient(#c0c0c0, #000000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-bk{
+  background: -webkit-linear-gradient(#000000, #c0c0c0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-pink{
+	background: -webkit-linear-gradient(#ffb6c1, #c0c0c0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-red{
+	background: -webkit-linear-gradient(#ff0000, #ffb6c1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.darkred{
+	color: #8b0000;
+}
+
+.pink{
+	color: #c0c0c0;
+}
+
+.blend{
+	mix-blend-mode: screen;
+}
+
+.black{
+	background-color: black;
+}
+
+.background-rainbow{
+  background-image: linear-gradient(to bottom right, #b0e0e6, #778899);
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.lightblue{
+	color: #b0e0e6;
 }
