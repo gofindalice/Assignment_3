@@ -128,6 +128,21 @@
 	font-family: Ostrich Sans Rounded;
 }
 
+.small{
+	font-size: 22px;
+	font-family: Ostrich Sans Rounded;
+}
+
+.medium{
+	font-size: 31px;
+	font-family: Ostrich Sans Rounded;
+}
+
+.mediumx{
+	font-size: 47px;
+	font-family: Ostrich Sans Rounded;
+}
+
 .large-anton{
 	font-size: 60px;
 	font-style: bold;
